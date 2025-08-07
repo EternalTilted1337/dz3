@@ -9,6 +9,14 @@ def test( ):
 def test( ):
   print("Duplicate function")
 
+
+#########################test
+def test( ):
+  print(  "Hello" )
+
+def test( ):
+  print("Duplicate function")
+#########################test
 #код до
 # import os
 # import sys
@@ -20,3 +28,11 @@ def test( ):
 #
 # def test( ):
 #   print("Duplicate function")
+
+#########################test
+# def test( ):
+#   print(  "Hello" )
+#
+# def test( ):
+#   print("Duplicate function")
+#########################test
